@@ -1,2 +1,2 @@
-# ecse_484_final_project_sex_trafficking
+# Anti_Trafficking
 A project understanding mediating factors to sex trafficking 
