@@ -1,2 +1,2 @@
-# Anti_Trafficking
-A project understanding mediating factors to sex trafficking 
+# Anti_Trafficking using deep learning
+Understanding mediating factors to anti-sex trafficking 
